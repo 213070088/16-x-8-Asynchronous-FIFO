@@ -1,3 +1,2 @@
 # Asynchronous-FIFO
-
-Design of a 16 X 8 Asynchronous FIFO for a Transmitter operating at a frequency of 200 MHz and a Receiver operating at a frequency of 20 MHz. More details can be found in the report.
+Designed a 16 x 8 asynchronous FIFO for a transmitter that operates at 200 MHz and a receiver that operates at 20 MHz. 
